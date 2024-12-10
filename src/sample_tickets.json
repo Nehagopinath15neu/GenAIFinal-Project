@@ -1,0 +1,37 @@
+[
+    {
+        "ticket_id": 1,
+        "description": "I cannot log into my account.",
+        "category": null,
+        "response": null,
+        "status": "Open"
+    },
+    {
+        "ticket_id": 2,
+        "description": "My payment was declined, but I have sufficient balance.",
+        "category": null,
+        "response": null,
+        "status": "Open"
+    },
+    {
+        "ticket_id": 3,
+        "description": "The app crashes whenever I try to open it.",
+        "category": null,
+        "response": null,
+        "status": "Open"
+    },
+    {
+        "ticket_id": 4,
+        "description": "I need help resetting my password.",
+        "category": null,
+        "response": null,
+        "status": "Open"
+    },
+    {
+        "ticket_id": 5,
+        "description": "I was charged twice for my subscription.",
+        "category": null,
+        "response": null,
+        "status": "Open"
+    }
+]
