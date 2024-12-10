@@ -1,4 +1,4 @@
-# Simplified Digital Twin for a Customer Support System 💬
+# CSYE 7380 - Final Project Documentation: Simplified Digital Twin for a Customer Support System💬
 
 ## Project Overview 📖
 
