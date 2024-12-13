@@ -1,5 +1,7 @@
 # CSYE 7380 - Final Project Documentation: Simplified Digital Twin for a Customer Support System💬
 
+youtube link - https://youtu.be/tzClwyW-xiA
+
 ## Project Overview 📖
 
 This project implements a simplified digital twin for a customer support ticketing system using an LLM (Large Language Model). The system receives, categorizes, and responds to support tickets, leveraging an LLM to automate tasks typically requiring human intervention.
