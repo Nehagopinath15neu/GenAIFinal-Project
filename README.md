@@ -59,6 +59,10 @@ project-root/
 │-- feedback.json        # Stores user feedback
 └── .env                 # Environment variables (GROQ API key)
 
+
+youtube link - https://youtu.be/tzClwyW-xiA
+
+
 Future Enhancements ✨
 - Add SLA tracking and priority levels.
 - Simulate customer responses and escalations.
